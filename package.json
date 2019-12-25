@@ -8,7 +8,7 @@
     "url": "https://github.com/xudaosong/commitizen-jira/issues"
   },
   "homepage": "https://github.com/xudaosong/commitizen-jira",
-  "author": "xudaosong <xudaosong@leedarson.com>",
+  "author": "xudaosong <xudaosong@163.com>",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^5.16.0"
