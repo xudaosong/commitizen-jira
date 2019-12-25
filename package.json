@@ -1,0 +1,22 @@
+{
+  "name": "commitizen-jira",
+  "version": "1.0.0",
+  "description": "commitizen jira",
+  "main": "src/index.js",
+  "repository": "https://github.com/xudaosong/commitizen-jira.git",
+  "bugs": {
+    "url": "https://github.com/xudaosong/commitizen-jira/issues"
+  },
+  "homepage": "https://github.com/xudaosong/commitizen-jira",
+  "author": "xudaosong <xudaosong@leedarson.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "find-config": "^1.0.0",
+    "git-branch": "^2.0.1",
+    "jira-connector": "^2.10.0"
+  }
+}
